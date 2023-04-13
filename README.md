@@ -3,3 +3,6 @@
 Simples agenda de contatps para sistemas Windows, Linux ou MAC
 
 ![Print da Tela](https://github.com/gabpereiraa/agenda/blob/main/img/printscreen.png)
+
+## Autor
+Gabriel Anastácio
