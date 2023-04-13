@@ -7,7 +7,7 @@ Simples agenda de contatps para sistemas Windows, Linux ou MAC
 ## Autor
 Gabriel Anastácio
 
-## Instalação da versão de demostração
+## Instalação da Agenda
 Essas instruções fornecerão uma cópia do projeto instalado e fununcionando em sua máquina local.
 
 ### Pré requesitos:
